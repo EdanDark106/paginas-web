@@ -1,0 +1,37 @@
+.rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rubik-lines-regular1 {
+    font-family: "Rubik Lines", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .container
+  {
+      background-color: rgb(218, 54, 233);
+      width: 400px;
+      height: 150px;
+  }
+  .container-fluid
+  {
+      /*background-color: rgb(31, 151, 20);
+      /*width: 400px;
+      height: 150px;*/
+
+  }
+  .row
+  {
+      background-color: rgb(60, 155, 31);
+      margin: 5px;
+  }
+  .col
+  {
+      background-color: rgb(146, 209, 45);
+      margin: 5px;
+  }
+  .modal-body
+  {
+      background-color: chartreuse;
+  }
